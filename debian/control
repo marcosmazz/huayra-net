@@ -1,0 +1,15 @@
+Source: huayra-net
+Section: misc
+Priority: optional
+Maintainer: Marcos Mazzini <linux.cigarra@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/huayra-net.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/huayra-net.git;a=summary
+
+Package: huayra-net
+Architecture: all
+Depends: ${misc:Depends}, network-manager, avahi-autoipd
+Description: Provee una conexion WiFi ad-hoc preconfigurada
+ Agrega una conexion wifi ad-hoc a network manager para poder usar huayra compartir sin necesidad de un router WiFi

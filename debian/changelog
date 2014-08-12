@@ -1,0 +1,6 @@
+huayra-net (1.0) unstable; urgency=low
+
+  * Initial Release.
+  * Archivo de configuracion para Network Manager
+
+ -- Marcos Mazzini <linux.cigarra@gmail.com>  Tue, 12 Aug 2014 12:00:49 -0300

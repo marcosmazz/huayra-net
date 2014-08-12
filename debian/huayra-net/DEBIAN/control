@@ -1,0 +1,11 @@
+Package: huayra-net
+Version: 1.0
+Architecture: all
+Maintainer: Marcos Mazzini <linux.cigarra@gmail.com>
+Installed-Size: 38
+Depends: network-manager, avahi-autoipd
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Provee una conexion WiFi ad-hoc preconfigurada
+ Agrega una conexion wifi ad-hoc a network manager para poder usar huayra compartir sin necesidad de un router WiFi
