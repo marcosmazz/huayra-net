@@ -4,7 +4,7 @@ huayra-net
 Conexion WiFi ad-hoc con autoip preconfigurada para huayra.
 
 
-Para usarla deben descargar el paquete .deb e instalarlo junto a sus dependencias (avahi-autoipd).
+Para usarla deben primero deben descargar el paquete .deb (click derecho y guardar enlace) y luego instalarlo junto a sus dependencias (avahi-autoipd).
 
 El paquete ofrece una nueva conexion WiFi disponible HUAYRA-NET para usar huayra compartir entre todas las netbooks que se conecten a esta red sin necesidad de un router WiFi.
 
